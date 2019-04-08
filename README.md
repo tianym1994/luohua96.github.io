@@ -7,6 +7,6 @@
 
 不要再问我报录比了，学校不公布我们也不知道。学校制定的参考书为耿国华教授的数据结构教材，有以下几本，建议购买最新版。
 
-![教材1](https://raw.githubusercontent.com/luohua96/luohua96.github.io/master/images/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E6%95%99%E6%9D%901.png)
+![教材1](https://ws1.sinaimg.cn/large/006sPfw0ly1g1vjx1g5bhj30ho0l1aqk.jpg)
 
-![教材2](https://raw.githubusercontent.com/luohua96/luohua96.github.io/master/images/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E6%95%99%E6%9D%902.png)
+![教材2](https://ws1.sinaimg.cn/large/006sPfw0ly1g1vjximjjwj308u0anq5w.jpg)
